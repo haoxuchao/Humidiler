@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="湿度">
+        <item >湿度 45%</item>
+        <item >湿度 55%</item>
+        <item >湿度 65%</item>
+        <item >湿度 75%</item>
+        <item >湿度 85%</item>
+        <item >湿度 95%</item>
+
+    </string-array>
+
+    <string-array name="雾量">
+        <item >雾量 小</item>
+        <item >雾量 中</item>
+        <item >雾量 大</item>
+    </string-array>
+
+    <string-array name="定时">
+        <item >0.5小时</item>
+        <item >1.0小时</item>
+        <item >1.5小时</item>
+        <item >2.0小时</item>
+        <item >3.0小时</item>
+        <item >5小时</item>
+    </string-array>
+
+</resources>

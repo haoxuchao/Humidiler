@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/add"
+    android:title="添加设备"/>
+    <item
+        android:id="@+id/added"
+        android:title="已连接的设备"/>
+    <item
+        android:id="@+id/close"
+        android:title="关闭加湿器"/>
+
+
+</menu>

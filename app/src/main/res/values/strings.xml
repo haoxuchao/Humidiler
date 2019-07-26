@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">加湿器</string>
+    <string name="shower_str11">其他方式绑定</string>
+    <string name="shower_str12">停止搜索</string>
+    <string name="shower_str4">搜索中</string>
+    <string name="shower_str5">未绑定</string>
+    <string name="shower_str6">搜索终止</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
